@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#formsetting{
+    padding: 10px;
+    border-radius:10px ;
+    background-color: blue;
+}
+
+
+
+.container{
+    background-color: blue;
+}
